@@ -434,7 +434,7 @@ export const projects = [
     description:
       "Quiz Me is a comprehensive quiz application designed to provide users with an engaging platform to test their knowledge across various subjects. It encompasses features for user authentication, quiz creation, management, and taking, as well as result tracking and performance analysis.",
     image:
-      "https://private-user-images.githubusercontent.com/147683595/319919423-5f2c5272-d4f5-46eb-a6fe-922190205366.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM4NzcyMDksIm5iZiI6MTcyMzg3NjkwOSwicGF0aCI6Ii8xNDc2ODM1OTUvMzE5OTE5NDIzLTVmMmM1MjcyLWQ0ZjUtNDZlYi1hNmZlLTkyMjE5MDIwNTM2Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgxN1QwNjQxNDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMmUyYzg3ZGEyMzA4MDc4NzAxMmQwOTY2NmE5NmQ0MjM2MDE1YThiYjU5OWJhMGQzODlkOTY1NTQyZWIxODE5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Z2CBlPA4A3BQsL3dnVDcvA1TntWJVuLja0KnQ2MOP8s",
+      "https://i.imgur.com/Tsc5ZkG.png",
     tags: ["React", "Redux", "Express.js", "Node.js", "MMongoDB","MUI"],
     category: "web app",
     github: "https://github.com/heyasif/Logic-Lakshan-2345",
@@ -510,7 +510,7 @@ export const projects = [
     description:
       "The project is the clone of figma design which was given during the construct week , we made two pages of the website (about page and contact page), the webpages are responsive with the respective screen sizes.      ",
     image:
-      "https://private-user-images.githubusercontent.com/79692865/280687240-2ac13001-ce34-4a23-8e01-c54b9df326e4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM4Nzc1MTEsIm5iZiI6MTcyMzg3NzIxMSwicGF0aCI6Ii83OTY5Mjg2NS8yODA2ODcyNDAtMmFjMTMwMDEtY2UzNC00YTIzLThlMDEtYzU0YjlkZjMyNmU0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE3VDA2NDY1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM5ZGI1MjM5ODdmN2FiNjlhMmYyMTU0MTllNTgyYzhiM2U1YTBlMDY1Yzc5ZjI5ZGUyOWVkMDdlZWViYWVjMjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.LD_7P0xnYGE1m6PCuFnxitIWDaJ01QGlBy_ZzRhxVCQ",
+      "https://i.imgur.com/fht2CvE.png",
     tags: ["HTML", "CSS", "SASS", "Github", "Git", "VSCode", "figma"],
     category: "web app",
     github: "https://github.com/heyasif/vivid-roll-405",
