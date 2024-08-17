@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/heyasif",
   resume:
-    "https://drive.google.com/file/d/1fYg9d-snlKXgmZGv5XMhIgE4758sHdq3/view?usp=sharing",
+    "https://drive.google.com/file/d/1NqoVzxgo62eRr-3p8Wy4Hl0f31-YhDjE/view",
   linkedin: "https://linkedin.com/in/hellomohdasif",
   insta: "https://www.instagram.com/heymohdasif/",
   facebook: "https://www.facebook.com/bmohdasif/",

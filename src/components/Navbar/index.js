@@ -74,7 +74,7 @@ const Navbar = () => {
             download
             onClick={() => {
               window.open(
-                "https://drive.google.com/file/d/1fYg9d-snlKXgmZGv5XMhIgE4758sHdq3/view?usp=sharing",
+                "https://drive.google.com/file/d/1NqoVzxgo62eRr-3p8Wy4Hl0f31-YhDjE/view",
                 "_blank"
               );
             }}
@@ -131,7 +131,7 @@ const Navbar = () => {
               download
               onClick={() => {
                 window.open(
-                  "https://drive.google.com/file/d/1fYg9d-snlKXgmZGv5XMhIgE4758sHdq3/view?usp=sharing",
+                  "https://drive.google.com/file/d/1NqoVzxgo62eRr-3p8Wy4Hl0f31-YhDjE/view",
                   "_blank"
                 );
               }}
