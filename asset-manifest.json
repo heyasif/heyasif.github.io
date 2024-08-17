@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.bf538fe7.css",
-    "main.js": "/static/js/main.1f42583f.js",
+    "main.js": "/static/js/main.47c57d8c.js",
     "static/media/Mohd-Asif-Resume.pdf": "/static/media/Mohd-Asif-Resume.b831cf708426a4966b6d.pdf",
     "static/media/HeroImage.jpg": "/static/media/HeroImage.a23035bd7473abcacf3a.jpg",
     "index.html": "/index.html",
     "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
-    "main.1f42583f.js.map": "/static/js/main.1f42583f.js.map"
+    "main.47c57d8c.js.map": "/static/js/main.47c57d8c.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.1f42583f.js"
+    "static/js/main.47c57d8c.js"
   ]
 }
