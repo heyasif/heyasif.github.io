@@ -245,7 +245,11 @@ export const skills = [
   // },
   {
     title: "Others",
-    skills: [
+    skills: [ {
+      name: "Next.js",
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlCk3aJNNf3g2tUZJDehbHUhmv7ZQSVqfOEw&s",
+    },
       {
         name: "JAVA",
         image:
